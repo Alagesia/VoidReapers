@@ -1,13 +1,11 @@
 {
   "council": [
-    { "name": "YourName",    "role": "Guild Master",   "img": "yourname.jpg" },
-    { "name": "OfficerOne",  "role": "Reaper Council", "img": "officer1.jpg" },
-    { "name": "OfficerTwo",  "role": "Reaper Council", "img": "officer2.jpg" },
-    { "name": "OfficerThree","role": "Reaper Council", "img": "officer3.jpg" }
+    { "name": "Ligaros",    "role": "Reaper Council",   "img": "ligaros.png" },
+    { "name": "Alagesia",  "role": "Reaper Council", "img": "alagesia.png" },
+    { "name": "Rhaklios",  "role": "Reaper Council", "img": "rhaklios.png" },
+    { "name": "UncleP","role": "Reaper Council", "img": "unclep.png" }
   ],
   "screenshots": [
-    { "img": "screenshot01.jpg", "caption": "Ops night — Eternity Vault clear" },
-    { "img": "screenshot02.jpg", "caption": "PvP premade domination" },
-    { "img": "screenshot03.jpg", "caption": "Guild event — Fashion Contest" }
+    { "img": "wof_femme.png", "caption": "Femme Fatale" }
   ]
 }
