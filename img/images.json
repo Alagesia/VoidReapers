@@ -1,0 +1,13 @@
+{
+  "council": [
+    { "name": "YourName",    "role": "Guild Master",   "img": "yourname.jpg" },
+    { "name": "OfficerOne",  "role": "Reaper Council", "img": "officer1.jpg" },
+    { "name": "OfficerTwo",  "role": "Reaper Council", "img": "officer2.jpg" },
+    { "name": "OfficerThree","role": "Reaper Council", "img": "officer3.jpg" }
+  ],
+  "screenshots": [
+    { "img": "screenshot01.jpg", "caption": "Ops night — Eternity Vault clear" },
+    { "img": "screenshot02.jpg", "caption": "PvP premade domination" },
+    { "img": "screenshot03.jpg", "caption": "Guild event — Fashion Contest" }
+  ]
+}
