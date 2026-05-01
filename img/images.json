@@ -6,6 +6,7 @@
     { "name": "UncleP","role": "Reaper Council", "img": "unclep.png" }
   ],
   "screenshots": [
-    { "img": "wof_femme.png", "caption": "Femme Fatale" }
+    { "img": "wof_femme.png", "caption": "Femme Fatale" },
+    { "img": "wof_ligaros.png", "caption": "Hoth Hoth Hoth" }
   ]
 }
